@@ -1,0 +1,13 @@
+mcp
+opencv-python
+langchain-google-genai
+langchain_mcp_adapters
+langchain
+langgraph
+pyppeteer
+torch
+torchvision
+transformers
+accelerate
+langchain_openai
+langchain_ollama
