@@ -1,0 +1,43 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-nKagu",
+          "node": {
+            "description": "## Tutorial Example 3:\n\nMCP Integration with Custom Components\n\nTry to follow the Tutorial_Example_3.md this time.\n\nYou will need:\n- MCP Servers running and\n- custom components created.\n\n",
+            "display_name": "",
+            "documentation": "",
+            "template": {}
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "id": "note-nKagu",
+        "measured": {
+          "height": 324,
+          "width": 459
+        },
+        "position": {
+          "x": 26.606210085304554,
+          "y": -100.46144414908281
+        },
+        "selected": false,
+        "type": "noteNode"
+      }
+    ],
+    "viewport": {
+      "x": 62.388355235642166,
+      "y": 227.7689758748876,
+      "zoom": 0.988245333020908
+    }
+  },
+  "description": "MCP Integration with Custom Components\n",
+  "endpoint_name": null,
+  "id": "c1892606-0de1-43fb-b877-6b2938675800",
+  "is_component": false,
+  "last_tested_version": "1.6.0",
+  "name": "Tutorial Example 3",
+  "tags": []
+}

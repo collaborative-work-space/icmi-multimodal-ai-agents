@@ -1,0 +1,3 @@
+This is a test image file content
+It can be any binary data or text
+The File component will convert it to base64

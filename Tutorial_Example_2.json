@@ -1,0 +1,42 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-9ZRn0",
+          "node": {
+            "description": "## Tutorial Example 2\n\nChat with Ollama\n\n#### Add components:\n- InputOutput / ChatInput\n- Bundles / Ollama / Ollama\n- InputOutput / ChatOutput\n\n#### Configure components:\nIn *Ollama*\nset BaseURL to \"http://localhost:11434\",\nand pick a ModelName.\n\n#### Configure connections:\n- ChatInput / ChatMessage ➡️ Ollama / Input\n- Ollama / ModelResponse ➡️ ChatOutput / Inputs\n\n#### Run Playground:\nIn ChatInput / InputText enter \"Hello\" \n\nThe flow should respond:\n```\nEcho: Hello\n```\n",
+            "display_name": "",
+            "documentation": "",
+            "template": {}
+          },
+          "type": "note"
+        },
+        "id": "note-9ZRn0",
+        "measured": {
+          "height": 650,
+          "width": 490
+        },
+        "position": {
+          "x": 131,
+          "y": -73
+        },
+        "selected": false,
+        "type": "noteNode"
+      }
+    ],
+    "viewport": {
+      "x": 24.80714517954857,
+      "y": 143.56855327953178,
+      "zoom": 1.0731682267432734
+    }
+  },
+  "description": "Chat with Ollama",
+  "endpoint_name": null,
+  "id": "b5bc1486-5889-42ce-a397-6409fb13493a",
+  "is_component": false,
+  "last_tested_version": "1.6.0",
+  "name": "Tutorial Example 2",
+  "tags": []
+}

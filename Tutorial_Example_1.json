@@ -1,0 +1,46 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-IByDE",
+          "node": {
+            "description": "## Tutorial Example 1\n\nReturn the input in another format.\n\n#### Add components:\n- Input / Output > Chat Input\n- Processing > Prompt Template\n- Input / Output > Chat Output\n\n#### Configure components:\nIn the *Prompt Template*\nenter \"Echo: {input_value}\",\nthen save.\n\n#### Configure connections:\n- Chat Input/Chat Message ➡️ Prompt Template/input_value\n- Prompt Template/Prompt ➡️ Chat Output/Inputs\n\n#### Run Playground:\nIn Chat Input/Input Text enter \"Hello\" \n\nThe flow should respond:\n```\nEcho: Hello\n```\n",
+            "display_name": "",
+            "documentation": "",
+            "template": {}
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 706,
+        "id": "note-IByDE",
+        "measured": {
+          "height": 706,
+          "width": 387
+        },
+        "position": {
+          "x": 364.49262296171787,
+          "y": -270.76812947709976
+        },
+        "resizing": false,
+        "selected": false,
+        "type": "noteNode",
+        "width": 387
+      }
+    ],
+    "viewport": {
+      "x": -290.0254248303845,
+      "y": 641.2513949079785,
+      "zoom": 1.0731679156859955
+    }
+  },
+  "description": "Simple Text Echo Flow",
+  "endpoint_name": null,
+  "id": "8cae5b29-eabf-45fd-8f2b-cebc3b1574e3",
+  "is_component": false,
+  "last_tested_version": "1.6.0",
+  "name": "Tutorial Example 1",
+  "tags": []
+}
